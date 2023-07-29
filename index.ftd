@@ -128,11 +128,11 @@ link: https://github.com/praful0203
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://instagram.com/praful0203
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:prafulmishra0203@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
@@ -168,7 +168,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Praful Mishra,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -190,7 +190,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:prafulmishra0203@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
