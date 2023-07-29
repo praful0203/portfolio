@@ -41,8 +41,8 @@ cta-item2-link: /YOUR_REPOSITORY_NAME/resume
 ;; -----------------------------------------------------
 
 -- toast.stack:
-title: Hello, I'm aspiring fastn developer based in India
-link: https://github.com/YOUR_GITHUB_USERNAME
+title: Hello, My name is Praful! I'm aspiring XR developer based in India
+link: https://github.com/praful0203
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
@@ -76,10 +76,10 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Praful Mishra,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: frontend
+firstTitle: XR
 secondTitle: developer
 
 -- lib.hero-ui-base-text-wrapper:
